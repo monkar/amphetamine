@@ -31,10 +31,11 @@ rem escribe el archivo java
 @echo } >> Energy.java
 
 rem compila el archivo.
-%JAVA_HOME%/bin/javac Energy.java
+"%JAVA_HOME%/bin/javac" Energy.java
 rem ejecuta en segundo plano.
-start %JAVA_HOME%/bin/javaw Energy
-echo. El programa está corriendo...
+rem start "%JAVA_HOME%/bin/javaw" Energy
+"%JAVA_HOME%/bin/javaw" Energy
+echo. El programa esta corriendo...
 goto end
 
 :end
