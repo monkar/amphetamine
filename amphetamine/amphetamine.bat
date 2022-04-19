@@ -2,7 +2,7 @@
 setlocal
 
 if not "[%JAVA_HOME%]"=="[]" goto start_app
-echo. JAVA_HOME no configurado, la aplicaicón no correrá!
+echo. JAVA_HOME no configurado, la aplicion no correra!
 goto end
 
 
@@ -12,7 +12,7 @@ rem escribe el archivo java
 @echo import java.awt.MouseInfo; > Energy.java
 @echo import java.awt.Point; >> Energy.java
 @echo import java.awt.Robot; >> Energy.java
-@echo //simulación de movimiento en raton >> Energy.java
+@echo //simulacion de movimiento en raton >> Energy.java
 @echo public class Energy { >> Energy.java
 @echo     public static void main(String[] args) throws Exception { >> Energy.java
 @echo         Robot energy = new Robot(); >> Energy.java
@@ -42,5 +42,3 @@ rem elimina los archivos creados.
 pause
 del "Energy.class"
 del "Energy.java"
-amphetamine.txt
-Mostrando amphetamine.txt.
