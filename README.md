@@ -7,7 +7,7 @@ Evita el cierre de sesion en equipos con Java
 
 2. Cerrar la ventana
 
-> **Note:** Para caso especial de no funcionar en la remota, el archivo **amphetamine-para-remota.bat** podría solucionarlo
+> **Nota:** Para caso especial de no funcionar en la remota, el archivo **amphetamine-para-remota.bat** podría solucionarlo
 
 ## Requisitos
 
@@ -15,9 +15,10 @@ Tener **%JAVA_HOME%** configurado
 
 ## Consideraciones
 
-Para un mejor desempeño, **NO MINIMIZAR** el escritorio remoto, usar **RESTARURAR** en lugar de minimizar.
+Para un mejor desempeño, **NO MINIMIZAR** el escritorio remoto, usar **RESTARURAR** en su lugar.
+
+![enter image description here](http://4.bp.blogspot.com/_8Vj7XPjS_nc/TBfpzCES4UI/AAAAAAAAAFA/0Xr5RaNKZkY/s200/3.bmp)
 
 
-
-
-## Edgar Medina (edgar.medina.vargas.contractor@bbva.com)
+## Autor
+[Edgar Medina] (edgar.medina.vargas.contractor@bbva.com)
