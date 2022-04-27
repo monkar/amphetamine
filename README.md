@@ -9,7 +9,7 @@ REPETIR LOS PASOS EN CADA EQUIPO NECESARIO (LOCAL, REMOTA, VDI)
 
  2. Cerrar la ventana
 
-> **Nota:** Para caso especial de no funcionar en la remota, el archivo **amphetamine-para-remota.bat** podría solucionarlo
+> **Nota:** Para caso especial de no funcionar en la remota, el archivo **amphetamine_para_agustino.bat** podría solucionarlo
 
 ## Requisitos
 
