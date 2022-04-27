@@ -3,9 +3,11 @@ Evita el cierre de sesion en equipos con Java
 
 ## Uso
 
- 1. Doble click en el archivo **amphetamine.bat** (si es la priemra vez que se ejecuta, aceptar en el diálogo)
+REPETIR LOS PASOS EN CADA EQUIPO NECESARIO (LOCAL, REMOTA, VDI)
 
-2. Cerrar la ventana
+ 1. Doble click en el archivo **amphetamine.bat** (si es la primera vez que se ejecuta, aceptar en el diálogo)
+
+ 2. Cerrar la ventana
 
 > **Nota:** Para caso especial de no funcionar en la remota, el archivo **amphetamine-para-remota.bat** podría solucionarlo
 
